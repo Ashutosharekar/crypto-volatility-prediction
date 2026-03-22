@@ -1,5 +1,5 @@
 # crypto-volatility-prediction
- Overview
+ ## Overview
 
 This project predicts cryptocurrency volatility using machine learning models like Random Forest and XGBoost.
 
