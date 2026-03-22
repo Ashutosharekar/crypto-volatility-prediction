@@ -1,9 +1,9 @@
 # crypto-volatility-prediction
-🔹 Overview
+ Overview
 
 This project predicts cryptocurrency volatility using machine learning models like Random Forest and XGBoost.
 
-🔹 Features
+##  Features
 
 Data preprocessing
 
@@ -15,7 +15,7 @@ Hyperparameter tuning
 
 Streamlit deployment
 
-🔹 Tech Stack
+ ##  Tech Stack
 
 Python
 
@@ -25,16 +25,18 @@ XGBoost
 
 Streamlit
 
-🔹 How to Run
+ ##  How to Run
 
 pip install -r requirements.txt
 
 streamlit run app.py
 
-🔹 Results
+##  Results
 
 RMSE: 1.86
 
 MAE: 1.28
 
 R²: 0.29
+
+
